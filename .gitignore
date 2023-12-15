@@ -72,3 +72,5 @@ node_modules/
 .angular/
 
 dist/
+отчеты/
+*.vscode/
